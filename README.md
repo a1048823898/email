@@ -3,7 +3,7 @@
 2018/10/15 email: wannew001@protonmail.com  wannew001@tutanota.com  getui:wannew001(已用) wannew001x  
 2018/10/17 email: wannew002@protonmail.com  wannew002@tutanota.com  getui:wannew002 wannew002x  
 2018/10/20 email: wannew003@protonmail.com  wannew003@tutanota.com  getui:wannew003 wannew003x  
-2018/10/22 email: wannew004@protonmail.com  wannew004@mail.com  getui:wannew004 wannew004x  
-2018/10/24 email: wannew005@protonmail.com  wannew005@tutanota.com  getui:wannew005 wannew005x(待定)   
-2018/10/26 email: wannew006@protonmail.com  wannew006@tutanota.com 
+2018/10/22 email: wannew004@protonmail.com  wannew004@mail.com      getui:wannew004 wannew004x  
+2018/10/24 email: wannew005@protonmail.com  wannew005@tutanota.com  getui:wannew005 wannew005x
+2018/10/26 email: wannew006@protonmail.com  wannew006@tutanota.com  getui:wannew006 wannew006x  
 
